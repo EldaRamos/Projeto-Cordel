@@ -71,10 +71,10 @@ section p {
     text-shadow: 1px 1px 0px black;
 }
 #img01 {
-    background-image: url('../desafio-cordel/imagens/background001.jpg');
+    background-image: url('imagens/background001.jpg');
 }
 #img02 {
-    background-image: url('../desafio-cordel/imagens/background002.jpg');
+    background-image: url('imagens/background002.jpg');
 }
 
 @media screen and (max-width: 600px) {
